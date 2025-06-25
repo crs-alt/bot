@@ -4,6 +4,3 @@ services:
     env: python
     buildCommand: ""
     startCommand: python bot.py
-    envVars:
-      - key: DISCORD_TOKEN
-        value: MTM4NzMyNDczNjAzNTQ4Nzc1OA.Gz__ZX.HE7B5vgb_5XsTsFyM04kzsgpp1uH5GBoOOA3WY
